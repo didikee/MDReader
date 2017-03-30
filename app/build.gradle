@@ -26,9 +26,6 @@ android {
 
 dependencies {
     compile fileTree(include: ['*.jar'], dir: 'libs')
-    //    compile 'us.feras.mdv:markdownview:1.1.0'
-    //    compile 'com.github.mukeshsolanki:MarkdownView-Android:1.0.3'
-    //    compile files('libs/commonmark-0.9.0.jar')
     compile 'io.github.gitbucket:markedj:1.0.9'
     compile 'com.android.support:support-annotations:25.1.1'
 }
